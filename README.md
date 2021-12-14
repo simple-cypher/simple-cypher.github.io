@@ -1,3 +1,3 @@
 # Simple Cypher
 
-Presentation for sharaga
+Presentation for sharaga =)
